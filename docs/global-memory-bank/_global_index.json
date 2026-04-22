@@ -1,0 +1,33 @@
+{
+  "schema": "tag_index_v1",
+  "metadata": {
+    "indexType": "global",
+    "lastUpdated": "2026-04-14T17:51:30.708Z",
+    "documentCount": 2,
+    "tagCount": 2
+  },
+  "index": [
+    {
+      "tag": "index",
+      "documents": [
+        {
+          "id": "9341b689-5903-47e6-aa8f-0944a3f12583",
+          "path": "tags/index.json",
+          "title": "Tags Index",
+          "lastModified": "2026-04-14T17:47:19.173Z"
+        }
+      ]
+    },
+    {
+      "tag": "meta",
+      "documents": [
+        {
+          "id": "9341b689-5903-47e6-aa8f-0944a3f12583",
+          "path": "tags/index.json",
+          "title": "Tags Index",
+          "lastModified": "2026-04-14T17:47:19.173Z"
+        }
+      ]
+    }
+  ]
+}
